@@ -1,4 +1,4 @@
-# Perfect-Heroku-Buildpack-Example
+# Perfect Heroku Buildpack Example
 
 
 [![Gitter](https://badges.gitter.im/PerfectlySoft/PerfectDocs.svg)](https://gitter.im/PerfectlySoft/PerfectDocs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
